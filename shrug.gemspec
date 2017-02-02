@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.email              = ["sn@grz.li"]
   spec.summary            = %q{Outputs the ¯\_(ツ)_/¯ string}
   spec.description        = %q{No really, that's all it does. Outputs the ¯\_(ツ)_/¯ string.}
-  spec.homepage           = "https://flyinggrizzly.io"
+  spec.homepage           = "https://github.com/flyinggrizzly/shrug"
   spec.license            = "MIT"
 
   spec.files              = ['lib/shrug.rb']
